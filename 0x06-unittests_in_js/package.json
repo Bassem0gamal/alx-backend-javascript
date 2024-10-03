@@ -1,0 +1,6 @@
+{
+    "main": "0-calcul.js",
+    "scripts": {
+        "test": "mocha *.test.js"
+    }
+}
