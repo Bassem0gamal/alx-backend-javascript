@@ -2,5 +2,9 @@
     "main": "0-calcul.js",
     "scripts": {
         "test": "mocha *.test.js"
+    },
+    "dependencies": {
+        "chai": "^4.5.0",
+        "mocha": "^10.7.3"
     }
 }
